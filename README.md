@@ -3,7 +3,7 @@
 <h1 align="center">Hello, I'm Gintarė</h1>
 <h3 align="center">A passionate JavaScript developer from Lithuania</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukcinitas&label=Profile%20views&color=c8b328&style=flat" alt="sukcinitas" /> </p>
-<p>You can check my portfolio as a website <a href="https://sukcinitas.gihub.io">here</a> or you can continue browsing.</p>
+<p>You can check my portfolio as a website <a href="https://sukcinitas.github.io">here</a> or you can continue browsing.</p>
 
 ---
 
