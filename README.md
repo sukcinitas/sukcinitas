@@ -2,7 +2,10 @@
 
 <h1 align="center">Hello, I'm Gintarė</h1>
 <h3 align="center">A passionate JavaScript developer from Lithuania</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sukcinitas&label=Profile%20views&color=c8b328&style=flat" alt="sukcinitas" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukcinitas&label=Profile%20views&color=c8b328&style=flat" alt="sukcinitas" /> </p> -->
+
+<p>I ventured into programming about four years ago and quickly became captivated by the ability to create something from scratch and watch my projects come to life. I love the puzzle-like quality of programming, where I can utilize my persistence and inquisitiveness. Contrary to popular belief, programming is not a solitary activity; it requires collaboration and effective communication. I have come to value respectful yet straightforward communication.</p>
+<p>I now have over two years of experience working as a professional front-end developer. I am skilled in JavaScript and I'm still improving my skills in other languages.</p>
 <p>You can check my portfolio as a website <a href="https://sukcinitas.github.io">here</a> or you can continue browsing.</p>
 
 ---
